@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="192.168.0.197" uuid="3f2483d1-fbe6-4fbc-9761-5898a5db98f2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>smsalerts</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@192.168.0.91" uuid="17e4901d-f679-4f2a-a88a-706435d82c65">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>.\Sidney Richards</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
